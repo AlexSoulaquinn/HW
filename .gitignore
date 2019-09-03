@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/SalesTotal_Quinn/obj
+/StudentGrade_Quinn/.vs
+/StudentGrade_Quinn/obj/Debug
